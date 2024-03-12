@@ -1,4 +1,4 @@
-// TabNavigator.js
+
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import AddExerciseScreen from './screens/AddExerciseScreen';

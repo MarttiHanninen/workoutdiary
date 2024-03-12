@@ -1,4 +1,4 @@
-// screens/SettingsScreen.js
+
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity } from 'react-native';
 import { COLORS, STYLES } from '../styles';
